@@ -1,0 +1,18 @@
+# Python
+    __pycache__/
+    *.py[cod]
+    *.so
+
+    # R
+    .Rhistory
+    .RData
+    .Rproj.user/
+
+    # Jupyter Notebooks
+    .ipynb_checkpoints
+
+    # VS Code
+    .vscode/
+
+    # Environment
+    .env
